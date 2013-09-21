@@ -39,7 +39,7 @@ namespace Project_Google_Adwords
             string URL = "https://www.google.com/accounts/ClientLogin";
             string email = "apis@location3.com";
             string password = "L3MP@ssw0rd";
-            string source = "Location3-MediaAgent-v1";
+            string source = "adwords";
 
             string httpBody =
                 string.Format(
